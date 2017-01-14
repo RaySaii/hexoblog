@@ -8,5 +8,6 @@ script:
  # 清除之前生成的文件
  - hexo clean
 
+
  - hexo s
 
