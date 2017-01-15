@@ -1,7 +1,0 @@
-# daocloud.yml
-image: daocloud.io/raysaii/hexo:latest  #使用已经在上一步创建好的Hexo基础环境镜像（并不包括博客项目源码）
-script:
- # 清除之前生成的文件
- - hexo clean
- - hexo s
-
